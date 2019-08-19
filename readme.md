@@ -6,7 +6,7 @@ Laravel API Project - Create, Read, Update and Delete (CRUD)
 
 - Composer
 - PHP >= 7.1.3
-- MySQL or MariaDB
+- MySQL or MariaDB.
 
 ## Tutorials
 
